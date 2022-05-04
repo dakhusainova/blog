@@ -22,6 +22,7 @@ interests:
   - C++ 
   - C# 
   - Unity
+  - Physics
 
 # Education to show in About widget
 education:
