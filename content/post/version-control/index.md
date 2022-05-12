@@ -1,6 +1,6 @@
 ---
-title: Version control.
-subtitle: About version control.
+title: Version control
+subtitle: About version control
 
 # Summary for listings and search engines
 summary: Here I will tell you about version control.
@@ -38,7 +38,6 @@ tags:
 
 categories:
   - Demo
-
 ---
 
 ## Overview

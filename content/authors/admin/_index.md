@@ -20,14 +20,16 @@ bio: Dinara Khusainova was born in Kazan in the Russian Federation in 2002. Now 
 interests:
   - Python
   - C++ 
-  - C# 
+  - C
   - Unity
   - Physics
 
 # Education to show in About widget
 education:
   courses:
-    - The first course of study in RUDN university (2021)
+    - course: The first course of study in RUDN university (2021)
+      institution: RUDN University
+      year: 2021
 
 
 # Social/Academic Networking
