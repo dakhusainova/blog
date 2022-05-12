@@ -25,8 +25,8 @@ feature:
     icon_pack: fab
     name: Web-Design
   - description: 85%
-    icon: radiation
-    icon_pack: fab
+    icon: ideas-repec
+    icon_pack: ai
     name: Physics
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
